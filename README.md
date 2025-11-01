@@ -26,7 +26,7 @@ Each model can be applied to any chosen stock by specifying the file name.
 
 ## Data
 
-The dataset should be placed inside the `nifty/` directory in the following CSV format:
+The dataset should be placed inside the `nifty_data/` directory in the following CSV format:
 
 - Date  
 - VWAP  
